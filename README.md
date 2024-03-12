@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [EDA](https://github.com/mobinghasemi/EDA_on_Flights)
+- 🔭 I’m currently working on [Inferential Statistics](https://github.com/mobinghasemi/Inferential_Statistics)
 
 - 🌱 I’m currently learning **Data Science & Artificial Intelligence**
 
